@@ -47,6 +47,7 @@ namespace Tentti2
                 fromFilePiste = new Piste(n, x, y);
                 lista.Add(fromFilePiste);
                 //Console.WriteLine("Position: " + reader.BaseStream.Position);
+
             }
 
             Console.WriteLine("---- LISTAn sisätä OLIDEN TULOSTUS JSON muodossa -----");
